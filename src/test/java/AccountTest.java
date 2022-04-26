@@ -29,7 +29,8 @@ public class AccountTest {
                 {"Як", false},
                 {"Яковлев Евгенийййййй", false},
                 {"Яковлев Евгениййййййййййййййй", false},
-                {"", false}
+                {"", false},
+                {null, false}
         };
     }
 
